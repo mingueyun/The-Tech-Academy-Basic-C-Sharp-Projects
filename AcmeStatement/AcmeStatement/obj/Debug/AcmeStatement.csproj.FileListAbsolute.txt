@@ -1,0 +1,6 @@
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\AcmeStatement\AcmeStatement\bin\Debug\AcmeStatement.exe.config
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\AcmeStatement\AcmeStatement\bin\Debug\AcmeStatement.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\AcmeStatement\AcmeStatement\bin\Debug\AcmeStatement.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\AcmeStatement\AcmeStatement\obj\Debug\AcmeStatement.csproj.CoreCompileInputs.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\AcmeStatement\AcmeStatement\obj\Debug\AcmeStatement.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\AcmeStatement\AcmeStatement\obj\Debug\AcmeStatement.pdb
