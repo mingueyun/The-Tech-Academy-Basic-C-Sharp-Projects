@@ -1,0 +1,7 @@
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\bin\Debug\ExerciseMathAndCompOperators.exe.config
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\bin\Debug\ExerciseMathAndCompOperators.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\bin\Debug\ExerciseMathAndCompOperators.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\obj\Debug\ExerciseMathAndCompOperators.csprojAssemblyReference.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\obj\Debug\ExerciseMathAndCompOperators.csproj.CoreCompileInputs.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\obj\Debug\ExerciseMathAndCompOperators.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseMathAndCompOperators\ExerciseMathAndCompOperators\obj\Debug\ExerciseMathAndCompOperators.pdb
