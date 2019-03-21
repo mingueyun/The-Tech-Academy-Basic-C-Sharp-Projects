@@ -1,0 +1,7 @@
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\bin\Debug\ExerciseBooleanLogic.exe.config
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\bin\Debug\ExerciseBooleanLogic.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\bin\Debug\ExerciseBooleanLogic.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.csprojAssemblyReference.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\ExerciseBooleanLogic\ExerciseBooleanLogic\obj\Debug\ExerciseBooleanLogic.pdb
