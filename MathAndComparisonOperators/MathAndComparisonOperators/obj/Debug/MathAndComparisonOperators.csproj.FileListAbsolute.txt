@@ -1,0 +1,7 @@
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe.config
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csprojAssemblyReference.cache
