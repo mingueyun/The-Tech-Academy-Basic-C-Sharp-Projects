@@ -1,0 +1,7 @@
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\bin\Debug\exerciseBranching.exe.config
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\bin\Debug\exerciseBranching.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\bin\Debug\exerciseBranching.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\obj\Debug\exerciseBranching.csprojAssemblyReference.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\obj\Debug\exerciseBranching.csproj.CoreCompileInputs.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\obj\Debug\exerciseBranching.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\exerciseBranching\exerciseBranching\obj\Debug\exerciseBranching.pdb
