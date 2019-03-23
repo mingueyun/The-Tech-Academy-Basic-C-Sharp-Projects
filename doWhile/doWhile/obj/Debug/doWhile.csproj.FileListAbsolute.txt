@@ -1,0 +1,7 @@
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\obj\Debug\doWhile.pdb
+C:\Users\mingu\OneDrive\Documents\Visual Studio 2017\Projects\Tech2019\doWhile\doWhile\obj\Debug\doWhile.csprojAssemblyReference.cache
