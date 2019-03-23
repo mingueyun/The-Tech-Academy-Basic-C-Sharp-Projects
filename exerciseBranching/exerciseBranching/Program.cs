@@ -14,6 +14,8 @@ namespace exerciseBranching
 
             Console.WriteLine("Please enter the package weight: ");
             double weight = Convert.ToDouble(Console.ReadLine());
+            if (weight > 50 )
+
 
             Console.WriteLine("Please enter the package width: ");
             double width = Convert.ToDouble(Console.ReadLine());
