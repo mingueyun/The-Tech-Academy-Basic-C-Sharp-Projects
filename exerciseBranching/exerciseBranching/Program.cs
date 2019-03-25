@@ -14,8 +14,12 @@ namespace exerciseBranching
 
             Console.WriteLine("Please enter the package weight: ");
             double weight = Convert.ToDouble(Console.ReadLine());
-            if (weight > 50 )
-
+            if (weight > 50)
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express.Have a good day.");
+                Console.ReadLine();
+                return;
+            }
 
             Console.WriteLine("Please enter the package width: ");
             double width = Convert.ToDouble(Console.ReadLine());
