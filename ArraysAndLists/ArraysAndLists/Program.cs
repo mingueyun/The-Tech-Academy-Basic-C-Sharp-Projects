@@ -51,15 +51,19 @@ namespace ArraysAndLists
             pick.Add("wheels");
             pick.Add("engine");
 
+            Console.WriteLine("pick an number for your car needs. choose from 0-2");
+            int choose = Convert.ToInt32(Console.ReadLine());
 
-
-
-
-
-            Console.WriteLine(pick[1]);
-        
+            if (choose > -1 && choose < 3)
+            {
+                Console.WriteLine("Content is a  " + pick[choose]);
+            }
+            else
+                Console.WriteLine(" uhh... what do you want from me? ");
 
             Console.ReadLine();
+
+            
         }
 
     }
