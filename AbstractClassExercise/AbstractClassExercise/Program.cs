@@ -11,6 +11,12 @@ namespace AbstractClassExercise
         static void Main(string[] args)
         {
             Employee person = new Employee();
+            
+            person.age = 6;
+            person.tellAge();
+
+
+
             person.firstName = "Sample";
             person.lastName = "student";
             person.SayName();

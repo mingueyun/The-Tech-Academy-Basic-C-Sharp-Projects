@@ -10,10 +10,17 @@ namespace AbstractClassExercise
     {
         public string firstName { get; set; }
         public string lastName { get; set; }
+        public int age { get; set;  }
         public virtual  void SayName()
         {
             string fullname = firstName + " " + lastName;
             Console.WriteLine("Name : " + fullname);
+        }
+        public void tellAge( )
+        {
+            int yourAge = age;
+            Console.WriteLine("your age is : " + yourAge);
+
         }
     }
 }

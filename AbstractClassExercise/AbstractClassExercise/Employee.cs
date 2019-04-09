@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClassExercise
 {
-     public class Employee : Person
+     public class Employee : Person, IQuittable
     {
             
         // implementing sayname() method from person class
@@ -14,6 +14,11 @@ namespace AbstractClassExercise
         public override void SayName()
         {
             base.SayName();
+        }
+        public void Quit(   )
+        {
+            tellAge( );
+
         }
     }
 }
