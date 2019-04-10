@@ -6,32 +6,26 @@ using System.Threading.Tasks;
 
 namespace voidMethod
 {
-      class SeatBucket
+    class SeatBucket
     {
-    
-        
-        public int Add( int a,  int b)
-        {
-            int adding;
 
-            if (a == b)
+        public int Alpha { get; set; }
+        public int bravo { get; set; }
+        public void Add()
+        {
+
+
+            if (Alpha == bravo)
             {
-                adding = a + b;
-                Console.WriteLine("sum of the two " + adding);
+                int what = Alpha + bravo;
+                Console.WriteLine("sum of the two " + what);
             }
             else
             {
-                adding = a % b;
-                Console.WriteLine("remaining " + adding);
-
+                int what = Alpha % bravo;
+                Console.WriteLine("remaining " + what);
             }
-            return adding;
-
-
-
-
 
         }
-
     }
 }

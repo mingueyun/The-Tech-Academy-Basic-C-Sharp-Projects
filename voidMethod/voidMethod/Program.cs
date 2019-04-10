@@ -9,36 +9,19 @@ namespace voidMethod
     class Program
     {
 
-        
         static void Main()
         {
             SeatBucket seat = new SeatBucket();
-            seat = Grab(seat);
-           
-            
+            Program program = new Program();
+            seat.Alpha = 4;
+            seat.bravo = 4;
+            seat.Add();
 
-          
-
-
-            
             Console.ReadLine();
 
-
         }
-        public static  SeatBucket Grab(SeatBucket seat)
-        {
-            int score;
-            Console.WriteLine("Enter your  available seats\n ");
-            int firstMathScore = Convert.ToInt32(Console.ReadLine());
-            score = seat.Add(firstMathScore, 12);
-            return seat;
-
-     
-        }
-
     }
-
-    
 }
+
 
 
