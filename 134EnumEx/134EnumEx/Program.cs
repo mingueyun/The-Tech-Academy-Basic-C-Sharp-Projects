@@ -30,6 +30,21 @@ namespace _134EnumEx
                     case "Tuesday":
                         Console.WriteLine("{0} = {1:D} ", GuessDay, Enum.Parse(typeof(DaysOfTheWeek), days.ToString()));
                         break;
+                    case "Wednesday":
+                        Console.WriteLine("{0} = {1:D} ", GuessDay, Enum.Parse(typeof(DaysOfTheWeek), days.ToString()));
+                        break;
+                    case "Thursday":
+                        Console.WriteLine("{0} = {1:D} ", GuessDay, Enum.Parse(typeof(DaysOfTheWeek), days.ToString()));
+                        break;
+                    case "Friday":
+                        Console.WriteLine("{0} = {1:D} ", GuessDay, Enum.Parse(typeof(DaysOfTheWeek), days.ToString()));
+                        break;
+                    case "Saturday":
+                        Console.WriteLine("{0} = {1:D} ", GuessDay, Enum.Parse(typeof(DaysOfTheWeek), days.ToString()));
+                        break;
+                    case "Sunday":
+                        Console.WriteLine("{0} = {1:D} ", GuessDay, Enum.Parse(typeof(DaysOfTheWeek), days.ToString()));
+                        break;
                     default:
                         Console.WriteLine("Please enter an actual day of the week. ");
                         break;
