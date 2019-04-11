@@ -42,32 +42,28 @@ namespace moreMethodsExercises
             else
             {
                 point2 = ssf - 1;
-                Console.WriteLine("its greater " + point2);
+                Console.WriteLine("its greater \n" + point2);
             }
             return point2;
             
 
         }
-        public int Joust(int yikes )
+        public int Joust(int math1, int math2)
         {
-            int toke;
-            if (yikes > 3)
+            int baker;
             {
-                toke = yikes + 10;
-                Console.WriteLine(" work " + toke);
+
+
+                baker = math1 + math2;
+                Console.WriteLine("\nit  works : " + baker);
 
             }
-            else
-            {
-                toke = yikes - 1;
-                Console.WriteLine("wont work " + toke);
+            return baker;
 
-            }
-            
-         
-            
 
-            return toke;
+
+
+            
 
         }
     }

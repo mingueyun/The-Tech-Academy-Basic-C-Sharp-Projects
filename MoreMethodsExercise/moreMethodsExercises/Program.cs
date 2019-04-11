@@ -30,14 +30,17 @@ namespace moreMethodsExercises
             score = mathstuff.ValueType(firstMathScore, 12  );
 
             double scores;
-            Console.WriteLine("Enter your  2nd math score\n ");
+            Console.WriteLine("\nEnter your  2nd math score\n ");
             double secondtMathScore = Convert.ToDouble(Console.ReadLine());
             scores = mathstuff.Value(secondtMathScore, 4);
 
             int stuff;
-            Console.WriteLine(" tell me a number \n");
-            int tellMe = Convert.ToInt32(Console.ReadLine());
-            stuff = mathstuff.Joust(tellMe);
+            string one = "5";
+            string two = "10";
+            int math1 = Int32.Parse(one);
+            int math2 = Int32.Parse(two);
+            stuff = mathstuff.Joust(math1, math2);
+
 
 
 
