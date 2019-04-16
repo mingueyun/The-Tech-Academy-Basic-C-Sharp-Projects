@@ -23,10 +23,14 @@ namespace AbstractClassExercise
             Console.WriteLine("your age is : " + yourAge);
 
         }
-        public bool Equals(Employee other)
+        public static Employee operator +( Employee employee, Person person)
         {
-            return (this.Id == other.Id && this.firstName == other.firstName);
 
         }
+        //public bool Equals(Employee other)
+        //{
+        //    return (this.Id == other.Id && this.firstName == other.firstName);
+
+        //}
     }
 }

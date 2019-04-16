@@ -10,13 +10,13 @@ namespace AbstractClassExercise
     {
         static void Main(string[] args)
         {
-            Employee one = new Employee();
-            Employee two = new Employee();
-            one.id = 1;
-            one.firstName = "sam";
-            two.id = 2;
-            two.firstName = "sam";
-            Console.WriteLine(one.Equals(two));
+            //Employee one = new Employee();
+            //Employee two = new Employee();
+            //one.id = 1;
+            //one.firstName = "sam";
+            //two.id = 2;
+            //two.firstName = "sam";
+            //Console.WriteLine(one.Equals(two));
 
 
             //Employee person = new Employee();

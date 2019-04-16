@@ -8,10 +8,19 @@ namespace AbstractClassExercise
 {
     public class Employee<T> : Person, IQuittable
     {
-        public int id { get; set; }
-        public List<T> Things { get; set; }
+       
+        
+        public List<T> things{ get; set; }
+        public string Things { get; set; }
+        public string Title;
+        public int YearsEmlployed;
 
-        // implementing sayname() method from person class
+        
+        public  Employee( string title, int yearsemployed)
+        {
+            Title = title;
+            YearsEmlployed = yearsemployed;
+        }
 
         public override void SayName()
         {
@@ -22,6 +31,20 @@ namespace AbstractClassExercise
             tellAge();
 
         }
+
+ 
+ 
+         
+        
         
     }
 }
+//1. Make the Employee class take a generic type parameter.
+
+//2. Add a property to the Employee class called "things" and have its data type be a generic list matching the generic type of the class.
+
+//3. Instantiate an Employee object with type "string" as its generic parameter.Assign a list of strings as the property value of Things.
+
+//4. Instantiate an Employee object with type "int" as its generic parameter.Assign a list of integers as the property value of Things.
+
+//5. Create a loop that prints all of the Things to the Console

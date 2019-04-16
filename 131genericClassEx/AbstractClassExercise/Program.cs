@@ -10,28 +10,30 @@ namespace AbstractClassExercise
     {
         static void Main(string[] args)
         {
+            
 
-            List<string> guess = new List<string>();
 
-            guess.Add("james");
-            guess.Add("jack");
-            guess.Add("jones");
-            foreach (var gues in guess)
-            {
-                Console.WriteLine("this is in string gues; " + gues);
-            }
+            //List<string> guess = new List<string>();
 
-            List<int> guess2 = new List<int>();
-            guess2.Add(1);
-            guess2.Add(3);
-            guess2.Add(4);
+            //guess.Add("james");
+            //guess.Add("jack");
+            //guess.Add("jones");
+            //foreach (var gues in guess)
+            //{
+            //    Console.WriteLine("this is in string gues; " + gues);
+            //}
 
-            foreach (var gues2  in guess2)
-            {
+            //List<int> guess2 = new List<int>();
+            //guess2.Add(1);
+            //guess2.Add(3);
+            //guess2.Add(4);
+
+            //foreach (var gues2  in guess2)
+            //{
           
-                Console.WriteLine(gues2);
+            //    Console.WriteLine(gues2);
 
-            }
+            //}
 
             //Employee<int> one = new Employee<int>();
             //Employee<int> two = new Employee<int>();
